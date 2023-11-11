@@ -18,7 +18,7 @@ This project aims to spread joy and happiness by offering an interactive web exp
 
 1. Clone the repository:
 ```bash
-  git clone https://github.com/your-username/diwali-wishes.git
+  git clone https://github.com/riteshporiya/HTMLDiwaliGreetings.git
 ```
 
 2. Open the `index.html` file in your web browser.
