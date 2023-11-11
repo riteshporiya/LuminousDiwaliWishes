@@ -20,6 +20,11 @@ section
 {
 	position: fixed;
 }
+.name {
+	font-size: 2em;
+	font-weight: bold;
+	color: #f0d054;
+}
 section.content
 {
 	z-index: 1;
